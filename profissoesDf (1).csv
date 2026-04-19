@@ -1,0 +1,1001 @@
+,Profissao,Experiencia,Habilidades,Nivel Educacao,Localizacao,Salario
+0,AI Engineer,10,2,Bachelor,India,109413
+1,Data Analyst,5,17,Bachelor,Australia,93764
+2,Frontend Developer,18,4,PhD,Singapore,148123
+3,Business Analyst,19,13,PhD,Canada,189123
+4,Product Manager,15,7,Bachelor,Sweden,165069
+5,AI Engineer,0,4,High School,USA,180351
+6,Backend Developer,6,16,High School,Canada,165375
+7,Machine Learning Engineer,4,18,Bachelor,Canada,202463
+8,AI Engineer,5,14,Diploma,Singapore,171834
+9,Frontend Developer,18,2,PhD,India,128377
+10,Frontend Developer,1,10,High School,Netherlands,105755
+11,Business Analyst,19,7,Master,Netherlands,157417
+12,Product Manager,8,3,High School,Canada,154190
+13,Data Analyst,3,3,Bachelor,Singapore,87600
+14,Business Analyst,14,5,PhD,India,106481
+15,Business Analyst,0,9,Bachelor,Remote,85143
+16,Machine Learning Engineer,11,16,PhD,Germany,191757
+17,DevOps Engineer,10,1,Bachelor,UK,155931
+18,Product Manager,9,12,Master,Singapore,141207
+19,Software Engineer,11,10,High School,Sweden,124532
+20,Business Analyst,4,15,Bachelor,UK,108203
+21,Cybersecurity Analyst,17,7,Diploma,Germany,161268
+22,DevOps Engineer,10,8,Bachelor,Germany,151828
+23,Software Engineer,5,2,High School,Sweden,115827
+24,Cybersecurity Analyst,12,15,High School,Australia,125030
+25,Product Manager,13,8,Master,India,113838
+26,Data Scientist,2,14,Bachelor,Remote,109478
+27,Cybersecurity Analyst,9,19,PhD,Germany,168253
+28,Backend Developer,7,15,Diploma,Australia,119988
+29,DevOps Engineer,4,19,Diploma,Australia,141409
+30,Cybersecurity Analyst,4,8,PhD,Australia,121972
+31,Cloud Engineer,8,3,PhD,UK,162923
+32,Data Scientist,13,3,Master,India,111158
+33,Frontend Developer,14,17,Diploma,India,84456
+34,Frontend Developer,18,18,Diploma,Sweden,158451
+35,Backend Developer,10,4,Master,Australia,115823
+36,Cybersecurity Analyst,0,13,PhD,Singapore,143181
+37,Cybersecurity Analyst,11,10,Bachelor,Canada,167629
+38,Machine Learning Engineer,15,15,PhD,Germany,213920
+39,Cybersecurity Analyst,10,12,Master,Australia,184393
+40,AI Engineer,5,10,Diploma,Germany,143403
+41,Data Analyst,2,4,PhD,Netherlands,96611
+42,Cloud Engineer,5,4,PhD,Germany,152413
+43,Machine Learning Engineer,15,15,High School,Germany,212249
+44,Product Manager,8,14,High School,Singapore,136543
+45,Machine Learning Engineer,8,17,Bachelor,Canada,177406
+46,AI Engineer,9,10,Master,Netherlands,194075
+47,Product Manager,13,3,Diploma,Canada,145069
+48,Cloud Engineer,14,14,Diploma,Remote,155886
+49,AI Engineer,15,13,High School,Remote,152004
+50,Software Engineer,11,11,Diploma,Canada,121570
+51,Data Analyst,17,6,Master,Australia,149491
+52,Cloud Engineer,11,8,Diploma,Remote,127838
+53,Cybersecurity Analyst,12,9,High School,Singapore,163138
+54,Software Engineer,20,6,Master,Remote,194364
+55,Backend Developer,0,11,PhD,UK,159274
+56,Cloud Engineer,10,7,Master,Germany,190270
+57,Backend Developer,12,3,Bachelor,Canada,186953
+58,Product Manager,8,3,Master,Canada,186117
+59,Software Engineer,14,16,PhD,Sweden,165569
+60,Data Analyst,2,6,Master,Australia,89018
+61,Cybersecurity Analyst,4,12,Diploma,Netherlands,115238
+62,Cybersecurity Analyst,12,15,Master,Germany,165648
+63,AI Engineer,20,5,Diploma,India,112984
+64,Cybersecurity Analyst,16,1,Master,Remote,147049
+65,Business Analyst,14,18,Diploma,USA,153999
+66,Machine Learning Engineer,15,6,High School,Netherlands,147962
+67,Data Scientist,11,18,Master,Sweden,168153
+68,Data Analyst,12,18,High School,Australia,124202
+69,Software Engineer,6,16,Master,USA,200988
+70,Business Analyst,12,3,High School,Sweden,110222
+71,Data Analyst,14,2,Bachelor,Sweden,101805
+72,Software Engineer,8,2,Master,Singapore,119579
+73,DevOps Engineer,9,4,PhD,UK,208215
+74,DevOps Engineer,18,6,High School,Sweden,127545
+75,Backend Developer,2,18,Diploma,Australia,102766
+76,Data Analyst,0,5,High School,UK,91705
+77,DevOps Engineer,10,4,Bachelor,UK,171414
+78,Software Engineer,1,3,Diploma,Remote,128205
+79,Backend Developer,9,15,Master,UK,152842
+80,Cybersecurity Analyst,0,19,Diploma,Canada,163299
+81,Software Engineer,8,18,High School,Singapore,134205
+82,Backend Developer,4,12,PhD,India,77939
+83,Data Analyst,20,1,PhD,USA,191096
+84,Business Analyst,3,14,Diploma,UK,111115
+85,AI Engineer,12,2,High School,Netherlands,153247
+86,Cybersecurity Analyst,13,9,Bachelor,Sweden,159278
+87,Cloud Engineer,17,9,Master,Sweden,184436
+88,Business Analyst,20,3,High School,Canada,138816
+89,Product Manager,1,6,Master,Australia,129229
+90,Software Engineer,11,8,PhD,Canada,171686
+91,Product Manager,2,13,Master,Remote,139641
+92,Business Analyst,8,15,Bachelor,Germany,143723
+93,Backend Developer,18,8,Bachelor,India,110112
+94,Cloud Engineer,17,2,High School,Germany,133187
+95,Cybersecurity Analyst,3,18,Master,UK,167315
+96,Cybersecurity Analyst,3,5,High School,Netherlands,118379
+97,Cybersecurity Analyst,10,3,Diploma,India,106400
+98,Cloud Engineer,17,17,Master,Germany,187913
+99,Data Scientist,8,7,Diploma,Remote,118562
+100,Cloud Engineer,12,2,Bachelor,USA,211319
+101,AI Engineer,19,4,Bachelor,Singapore,176966
+102,Cloud Engineer,16,13,PhD,USA,230499
+103,Business Analyst,5,18,PhD,Netherlands,104364
+104,Data Scientist,8,16,High School,UK,138497
+105,Cybersecurity Analyst,19,12,PhD,Singapore,224252
+106,Business Analyst,15,11,Bachelor,Germany,136322
+107,Business Analyst,5,15,Master,Singapore,113830
+108,Frontend Developer,6,19,Diploma,UK,104707
+109,Machine Learning Engineer,20,15,Master,Singapore,194556
+110,Data Scientist,17,3,PhD,Netherlands,161188
+111,Business Analyst,9,16,PhD,UK,156923
+112,Machine Learning Engineer,2,9,High School,UK,150104
+113,Machine Learning Engineer,4,17,Master,Netherlands,175882
+114,Data Scientist,2,18,PhD,Netherlands,153715
+115,Frontend Developer,0,1,Diploma,Canada,128777
+116,Product Manager,20,13,Diploma,Remote,139296
+117,Backend Developer,9,12,Bachelor,Germany,140099
+118,AI Engineer,3,18,Diploma,USA,179209
+119,Backend Developer,4,2,Master,UK,127163
+120,Cloud Engineer,12,18,PhD,Remote,165230
+121,Cybersecurity Analyst,13,10,Diploma,USA,214121
+122,AI Engineer,14,2,Master,Sweden,146091
+123,Cloud Engineer,4,8,Master,Singapore,128586
+124,Business Analyst,0,8,High School,India,43673
+125,Cybersecurity Analyst,2,2,PhD,Netherlands,112803
+126,Software Engineer,5,18,PhD,Singapore,141440
+127,Data Scientist,4,14,High School,Sweden,105485
+128,AI Engineer,5,1,High School,Remote,116698
+129,AI Engineer,1,11,High School,Remote,125249
+130,Business Analyst,17,2,Master,Remote,149199
+131,Product Manager,8,15,Master,Singapore,181039
+132,Machine Learning Engineer,2,18,Bachelor,Australia,138281
+133,Cybersecurity Analyst,0,15,High School,Netherlands,108552
+134,Business Analyst,9,4,High School,Canada,111070
+135,DevOps Engineer,1,11,Master,Sweden,147586
+136,Frontend Developer,6,10,Bachelor,Remote,96708
+137,Machine Learning Engineer,1,16,High School,India,75134
+138,Data Scientist,0,10,High School,Singapore,91611
+139,Machine Learning Engineer,15,2,Bachelor,Australia,158477
+140,Product Manager,15,2,Bachelor,Remote,134092
+141,Machine Learning Engineer,15,13,Bachelor,USA,199092
+142,Data Scientist,10,1,Bachelor,India,77841
+143,Product Manager,8,17,Diploma,UK,191969
+144,Backend Developer,18,10,PhD,Canada,230129
+145,AI Engineer,6,18,PhD,UK,192544
+146,AI Engineer,14,15,Bachelor,USA,195834
+147,Frontend Developer,5,13,High School,Remote,91428
+148,Cloud Engineer,20,4,PhD,Singapore,195494
+149,Backend Developer,19,10,Diploma,India,109343
+150,Backend Developer,6,1,Diploma,Canada,106000
+151,Cybersecurity Analyst,3,2,PhD,Sweden,146195
+152,Machine Learning Engineer,16,9,High School,Netherlands,171372
+153,AI Engineer,4,14,Diploma,UK,185772
+154,Data Scientist,7,6,Master,Australia,126020
+155,Data Analyst,1,8,Diploma,Sweden,69512
+156,Data Analyst,3,17,High School,Australia,87017
+157,Product Manager,19,2,Bachelor,Australia,130127
+158,AI Engineer,18,19,High School,India,146788
+159,AI Engineer,6,18,Master,USA,257220
+160,Frontend Developer,9,5,High School,Remote,130233
+161,Data Analyst,20,1,Master,Netherlands,136237
+162,AI Engineer,17,4,Bachelor,Remote,193382
+163,Frontend Developer,2,9,PhD,Netherlands,108377
+164,Machine Learning Engineer,11,3,High School,Netherlands,127942
+165,DevOps Engineer,7,16,PhD,Australia,154734
+166,Cybersecurity Analyst,4,8,High School,USA,147623
+167,Software Engineer,17,12,Diploma,Canada,169738
+168,Backend Developer,8,9,High School,Netherlands,119058
+169,Cloud Engineer,11,12,Diploma,Germany,145411
+170,Product Manager,4,2,High School,Sweden,133017
+171,DevOps Engineer,4,5,Bachelor,Germany,120288
+172,Cybersecurity Analyst,9,6,High School,USA,161018
+173,Cybersecurity Analyst,2,4,Bachelor,Germany,124820
+174,Cybersecurity Analyst,12,5,High School,Germany,127732
+175,Cybersecurity Analyst,11,14,PhD,Singapore,154429
+176,Data Analyst,11,6,Master,Remote,107522
+177,Frontend Developer,19,2,Bachelor,Remote,119000
+178,Backend Developer,3,7,Bachelor,Netherlands,90498
+179,AI Engineer,12,17,Bachelor,Australia,155950
+180,Cybersecurity Analyst,7,12,High School,Germany,131691
+181,Cloud Engineer,9,16,Master,Singapore,125003
+182,AI Engineer,0,4,Diploma,Netherlands,132180
+183,Data Scientist,20,15,Diploma,USA,202015
+184,Data Scientist,11,16,Master,USA,188674
+185,Cloud Engineer,8,5,Master,Germany,156657
+186,Frontend Developer,17,9,Master,Australia,158023
+187,Cloud Engineer,6,6,Diploma,USA,185816
+188,Data Analyst,5,3,High School,USA,106642
+189,Cloud Engineer,5,12,Diploma,UK,157474
+190,Machine Learning Engineer,11,17,Master,Remote,159308
+191,AI Engineer,17,3,Diploma,Canada,220056
+192,DevOps Engineer,20,6,High School,India,118711
+193,Business Analyst,19,10,High School,Australia,117736
+194,Frontend Developer,19,3,High School,Singapore,134365
+195,Cloud Engineer,19,12,High School,Australia,150970
+196,Product Manager,1,13,High School,UK,119092
+197,Data Scientist,13,10,PhD,Singapore,143921
+198,Machine Learning Engineer,16,14,Diploma,USA,211447
+199,Backend Developer,7,5,High School,Singapore,114572
+200,Cybersecurity Analyst,4,2,Master,Germany,162008
+201,Business Analyst,19,11,Diploma,Canada,183378
+202,Frontend Developer,10,1,Master,Singapore,145624
+203,DevOps Engineer,2,4,PhD,USA,203814
+204,Business Analyst,11,2,High School,Canada,124494
+205,Cloud Engineer,14,19,Diploma,Germany,167683
+206,Data Analyst,10,8,Master,Sweden,132351
+207,Data Scientist,18,19,High School,Canada,192915
+208,Data Scientist,10,4,Master,UK,161920
+209,Backend Developer,19,9,Diploma,Remote,135226
+210,Data Analyst,15,9,PhD,India,121352
+211,Cybersecurity Analyst,7,17,High School,Singapore,118153
+212,AI Engineer,7,15,Bachelor,USA,221101
+213,Software Engineer,0,9,PhD,Canada,179616
+214,Machine Learning Engineer,0,19,Master,Germany,149302
+215,Data Scientist,0,4,High School,Germany,83414
+216,Product Manager,5,19,Master,Canada,176127
+217,Data Scientist,0,19,PhD,Netherlands,138336
+218,Business Analyst,8,10,Bachelor,Canada,146263
+219,Data Scientist,9,19,PhD,Australia,148382
+220,Frontend Developer,14,4,PhD,USA,186583
+221,Data Scientist,8,6,High School,Australia,103678
+222,Software Engineer,12,1,Master,Germany,141082
+223,Software Engineer,13,13,Bachelor,Remote,155339
+224,Cybersecurity Analyst,14,4,Diploma,India,97308
+225,DevOps Engineer,3,13,High School,Netherlands,97030
+226,AI Engineer,11,6,Diploma,UK,180105
+227,Product Manager,12,6,High School,Canada,188852
+228,Data Scientist,6,12,Diploma,Canada,134908
+229,Data Scientist,14,2,Master,Germany,144017
+230,Machine Learning Engineer,20,16,Bachelor,India,121755
+231,Software Engineer,1,2,Diploma,UK,134193
+232,Product Manager,20,9,High School,Remote,192258
+233,Cybersecurity Analyst,5,4,High School,Germany,108329
+234,Backend Developer,4,1,High School,Canada,120687
+235,DevOps Engineer,0,19,Diploma,Sweden,97795
+236,AI Engineer,9,19,Master,Canada,206331
+237,Data Analyst,18,16,Diploma,Remote,123724
+238,AI Engineer,7,5,Bachelor,Netherlands,183343
+239,Frontend Developer,14,16,PhD,UK,189181
+240,Business Analyst,1,4,High School,Singapore,73208
+241,Frontend Developer,12,17,High School,India,84446
+242,Data Scientist,3,14,Master,USA,179260
+243,DevOps Engineer,2,11,Bachelor,Remote,117580
+244,Business Analyst,0,5,Diploma,India,49398
+245,Product Manager,15,15,High School,Netherlands,134048
+246,Data Analyst,9,17,Bachelor,UK,113902
+247,Software Engineer,5,11,Diploma,Remote,101078
+248,DevOps Engineer,4,18,Diploma,Singapore,129419
+249,DevOps Engineer,16,9,Diploma,Remote,141488
+250,Frontend Developer,3,14,Diploma,USA,138279
+251,Data Scientist,19,6,Master,USA,188568
+252,Cloud Engineer,11,17,High School,India,92273
+253,Cybersecurity Analyst,17,14,Master,India,136311
+254,Frontend Developer,1,3,Diploma,Netherlands,76077
+255,DevOps Engineer,10,7,Diploma,Germany,170336
+256,Machine Learning Engineer,8,4,PhD,Australia,143125
+257,Data Analyst,5,15,High School,Australia,94165
+258,Cybersecurity Analyst,5,12,Diploma,USA,146361
+259,Frontend Developer,4,10,Master,Netherlands,116522
+260,Data Analyst,2,19,High School,USA,98885
+261,Machine Learning Engineer,4,15,Master,Netherlands,144242
+262,Backend Developer,11,17,Bachelor,Singapore,172732
+263,Machine Learning Engineer,20,8,Diploma,Sweden,211497
+264,Machine Learning Engineer,9,2,Master,Netherlands,135576
+265,Data Analyst,9,16,PhD,Germany,135500
+266,AI Engineer,16,2,Diploma,Singapore,143712
+267,Data Analyst,3,16,Master,Netherlands,101591
+268,Cloud Engineer,14,5,Bachelor,Remote,131106
+269,Data Scientist,17,6,Master,Australia,163381
+270,Business Analyst,17,2,Master,Netherlands,139419
+271,AI Engineer,16,14,Master,UK,194819
+272,Software Engineer,16,18,PhD,Australia,156195
+273,Business Analyst,18,5,Bachelor,Sweden,116535
+274,Data Scientist,13,17,Diploma,UK,151402
+275,Frontend Developer,15,13,Bachelor,Sweden,137313
+276,Cybersecurity Analyst,11,19,High School,Netherlands,134961
+277,Cloud Engineer,10,7,High School,UK,148582
+278,Cloud Engineer,14,5,High School,Canada,162647
+279,Software Engineer,18,6,PhD,Singapore,167616
+280,AI Engineer,20,12,Diploma,India,133712
+281,Backend Developer,20,14,High School,Germany,150019
+282,Machine Learning Engineer,6,6,Diploma,USA,181620
+283,AI Engineer,1,18,High School,Netherlands,162763
+284,Cybersecurity Analyst,13,3,PhD,Netherlands,166904
+285,Backend Developer,15,15,Bachelor,UK,163999
+286,Cloud Engineer,5,12,Diploma,UK,148246
+287,Data Analyst,6,7,Bachelor,Canada,105109
+288,Cybersecurity Analyst,15,13,High School,Sweden,123557
+289,Data Scientist,11,11,Bachelor,UK,143368
+290,Software Engineer,6,1,High School,Australia,97296
+291,Data Scientist,4,10,PhD,UK,150628
+292,Cybersecurity Analyst,2,19,Diploma,Remote,116699
+293,Product Manager,11,13,Bachelor,Germany,166046
+294,Product Manager,17,9,Master,Australia,151888
+295,Frontend Developer,13,12,High School,Sweden,106247
+296,AI Engineer,20,13,PhD,India,172891
+297,Cloud Engineer,18,17,PhD,Germany,179650
+298,Cloud Engineer,3,2,PhD,Netherlands,122823
+299,Machine Learning Engineer,12,4,Bachelor,India,137499
+300,Machine Learning Engineer,10,9,High School,Remote,129333
+301,Machine Learning Engineer,5,1,Diploma,UK,146376
+302,Data Analyst,17,12,Diploma,Remote,138893
+303,Business Analyst,8,10,Diploma,USA,165706
+304,DevOps Engineer,5,9,Diploma,Germany,166113
+305,Business Analyst,1,2,Diploma,Singapore,52787
+306,Data Scientist,7,3,Bachelor,USA,151186
+307,Business Analyst,16,5,PhD,Germany,161500
+308,Data Analyst,1,10,PhD,Singapore,127587
+309,Frontend Developer,8,8,Bachelor,India,98399
+310,Data Scientist,17,10,Diploma,Germany,164173
+311,Business Analyst,11,17,Diploma,USA,182305
+312,Data Analyst,2,16,High School,Canada,111691
+313,DevOps Engineer,7,19,PhD,Canada,193283
+314,Business Analyst,20,14,Diploma,Sweden,148056
+315,Data Analyst,12,17,Bachelor,India,88963
+316,Machine Learning Engineer,6,11,Master,Germany,163077
+317,Cloud Engineer,12,3,Bachelor,India,104751
+318,Machine Learning Engineer,6,17,Diploma,India,92541
+319,Cloud Engineer,18,7,Diploma,Sweden,187965
+320,Software Engineer,8,11,Diploma,Netherlands,101905
+321,Software Engineer,11,1,PhD,Remote,152683
+322,Software Engineer,2,15,PhD,India,116761
+323,DevOps Engineer,18,13,Bachelor,Germany,177621
+324,Machine Learning Engineer,15,13,Bachelor,India,110903
+325,Cloud Engineer,10,6,PhD,Germany,200250
+326,Data Analyst,20,14,PhD,Remote,153652
+327,Data Scientist,0,17,Bachelor,Remote,97183
+328,Data Analyst,15,11,Master,Remote,127508
+329,Data Scientist,5,9,Bachelor,Netherlands,110035
+330,Product Manager,15,14,Bachelor,UK,178035
+331,Data Analyst,19,6,PhD,USA,192699
+332,Business Analyst,7,1,Master,Germany,140720
+333,Business Analyst,1,15,Master,India,62524
+334,AI Engineer,13,7,Bachelor,India,131994
+335,Machine Learning Engineer,1,13,Bachelor,Australia,139386
+336,Data Scientist,3,16,Master,Australia,137321
+337,Data Scientist,17,14,High School,Netherlands,185705
+338,Cybersecurity Analyst,11,10,High School,UK,132600
+339,Frontend Developer,11,16,High School,Sweden,113694
+340,Machine Learning Engineer,1,16,Bachelor,Germany,160359
+341,DevOps Engineer,4,18,Master,Germany,132371
+342,AI Engineer,0,7,PhD,Sweden,139524
+343,DevOps Engineer,17,18,Bachelor,India,100209
+344,DevOps Engineer,3,7,Diploma,Remote,114225
+345,DevOps Engineer,4,8,Master,Germany,137773
+346,Machine Learning Engineer,12,1,High School,UK,143449
+347,DevOps Engineer,1,11,Bachelor,Netherlands,120922
+348,Business Analyst,10,5,Bachelor,Netherlands,127909
+349,Frontend Developer,9,4,High School,UK,119959
+350,Frontend Developer,13,15,PhD,UK,197983
+351,Software Engineer,17,15,Master,Singapore,179877
+352,Product Manager,20,17,Master,India,142857
+353,Data Scientist,11,8,PhD,Singapore,154520
+354,Cybersecurity Analyst,18,10,Master,Canada,213952
+355,Data Scientist,6,5,PhD,Singapore,167014
+356,Product Manager,20,15,Diploma,Remote,149186
+357,Cybersecurity Analyst,0,17,Bachelor,UK,151900
+358,Machine Learning Engineer,14,7,Bachelor,USA,228160
+359,Data Analyst,1,15,Master,Canada,108242
+360,Machine Learning Engineer,16,16,Diploma,Netherlands,170617
+361,Data Scientist,8,14,PhD,Sweden,135915
+362,Data Scientist,7,15,High School,Singapore,120060
+363,Cybersecurity Analyst,8,5,Diploma,Sweden,130540
+364,Cybersecurity Analyst,6,7,Bachelor,India,85823
+365,Product Manager,11,3,PhD,Canada,193385
+366,DevOps Engineer,4,19,Master,UK,160900
+367,Machine Learning Engineer,2,18,PhD,Singapore,144134
+368,Cybersecurity Analyst,15,13,Master,Canada,219706
+369,Cloud Engineer,0,5,PhD,UK,188551
+370,Product Manager,14,16,High School,Singapore,191782
+371,Business Analyst,13,5,PhD,Australia,123670
+372,Data Scientist,10,8,PhD,Canada,160635
+373,Product Manager,10,10,High School,Singapore,127255
+374,Machine Learning Engineer,7,2,Diploma,Germany,164902
+375,Cybersecurity Analyst,18,15,Diploma,Australia,140468
+376,Data Scientist,11,7,Bachelor,Sweden,150991
+377,Data Analyst,11,5,High School,USA,104752
+378,Product Manager,13,3,Diploma,Sweden,131085
+379,AI Engineer,19,2,PhD,Sweden,181589
+380,Data Scientist,11,16,Diploma,UK,134523
+381,Machine Learning Engineer,9,14,Bachelor,Sweden,168371
+382,Software Engineer,13,6,Diploma,Australia,124981
+383,Cloud Engineer,0,12,High School,Canada,152454
+384,Backend Developer,12,14,Master,UK,140210
+385,DevOps Engineer,9,3,High School,Remote,154575
+386,Backend Developer,12,12,Master,Netherlands,140151
+387,Machine Learning Engineer,0,6,Bachelor,India,75636
+388,Business Analyst,6,12,PhD,Australia,140713
+389,Business Analyst,11,16,PhD,USA,160899
+390,Software Engineer,9,5,Bachelor,Germany,134696
+391,DevOps Engineer,13,13,Master,UK,177049
+392,AI Engineer,15,10,Bachelor,Australia,155185
+393,Software Engineer,14,14,Bachelor,Singapore,163308
+394,Frontend Developer,8,12,Diploma,Australia,102469
+395,Backend Developer,1,5,High School,USA,154017
+396,Software Engineer,1,5,Master,Sweden,107485
+397,Backend Developer,4,3,Diploma,USA,148120
+398,Data Scientist,13,7,Master,Germany,207683
+399,Business Analyst,9,4,Master,Germany,119062
+400,Data Scientist,15,1,Bachelor,Singapore,168812
+401,Cloud Engineer,2,18,Diploma,Netherlands,148442
+402,Frontend Developer,18,2,High School,Canada,163608
+403,DevOps Engineer,15,13,Master,Netherlands,197830
+404,AI Engineer,0,3,Master,UK,174817
+405,Backend Developer,11,3,High School,Australia,121327
+406,AI Engineer,14,3,High School,Sweden,166000
+407,Backend Developer,14,10,Master,Germany,175457
+408,Machine Learning Engineer,4,13,Master,Sweden,132135
+409,Software Engineer,8,17,Diploma,Remote,111453
+410,Cloud Engineer,14,13,PhD,Singapore,149139
+411,Business Analyst,5,17,Diploma,Remote,115496
+412,Cybersecurity Analyst,1,11,Master,Australia,110451
+413,Backend Developer,13,14,Diploma,Australia,117220
+414,AI Engineer,2,12,Bachelor,UK,153754
+415,Cloud Engineer,8,10,Diploma,Sweden,130573
+416,Data Analyst,1,9,PhD,UK,122341
+417,Data Analyst,20,6,Bachelor,Singapore,152405
+418,Data Scientist,0,16,PhD,Germany,166568
+419,Business Analyst,16,7,Bachelor,India,105785
+420,Cybersecurity Analyst,20,4,Diploma,Canada,162339
+421,Machine Learning Engineer,2,7,Master,Australia,136086
+422,AI Engineer,18,8,Bachelor,Netherlands,206368
+423,Cybersecurity Analyst,5,6,Bachelor,Sweden,119814
+424,Software Engineer,8,15,Bachelor,Australia,122816
+425,Software Engineer,9,18,Master,Singapore,160948
+426,AI Engineer,11,11,Diploma,Canada,224694
+427,DevOps Engineer,14,17,Bachelor,Australia,164763
+428,Machine Learning Engineer,4,12,Diploma,Australia,127717
+429,Cloud Engineer,10,18,PhD,Germany,208181
+430,Backend Developer,1,16,PhD,Remote,140875
+431,DevOps Engineer,5,11,Bachelor,UK,156859
+432,Backend Developer,5,4,High School,Sweden,103573
+433,Backend Developer,2,11,PhD,Germany,126828
+434,DevOps Engineer,14,6,High School,UK,155182
+435,Data Scientist,8,19,High School,India,93058
+436,Data Analyst,15,7,High School,Netherlands,126260
+437,Backend Developer,2,12,Diploma,Remote,92145
+438,DevOps Engineer,8,14,PhD,Canada,219580
+439,DevOps Engineer,16,8,PhD,USA,210825
+440,Frontend Developer,20,3,Diploma,India,83530
+441,Cybersecurity Analyst,9,18,Diploma,Sweden,117025
+442,Product Manager,2,18,High School,Singapore,93575
+443,Data Scientist,8,16,Bachelor,Canada,162482
+444,Business Analyst,10,19,Bachelor,Canada,121037
+445,Product Manager,12,13,Diploma,Australia,146527
+446,Cybersecurity Analyst,9,14,Master,Remote,133380
+447,Cybersecurity Analyst,19,1,Diploma,Remote,166204
+448,Cybersecurity Analyst,10,2,High School,UK,146051
+449,Product Manager,5,8,Master,Singapore,129675
+450,AI Engineer,3,5,PhD,India,114956
+451,Data Analyst,0,4,Master,Canada,94714
+452,DevOps Engineer,3,4,High School,USA,124743
+453,Data Analyst,6,1,High School,India,41404
+454,Machine Learning Engineer,20,7,Bachelor,Sweden,200088
+455,AI Engineer,0,14,Diploma,Netherlands,142542
+456,Business Analyst,4,2,Bachelor,Australia,90319
+457,Data Analyst,16,9,PhD,Singapore,162041
+458,Software Engineer,8,1,PhD,Netherlands,126418
+459,Cybersecurity Analyst,0,15,PhD,Germany,155680
+460,Backend Developer,2,18,High School,USA,156823
+461,Machine Learning Engineer,19,5,High School,Australia,156555
+462,Data Scientist,16,8,Diploma,Germany,167856
+463,Business Analyst,2,3,PhD,India,73692
+464,Machine Learning Engineer,14,12,PhD,Germany,186196
+465,Cybersecurity Analyst,9,7,Master,USA,188085
+466,Backend Developer,15,14,PhD,Sweden,192612
+467,AI Engineer,15,9,High School,Singapore,190265
+468,Backend Developer,3,18,Master,Remote,134203
+469,Product Manager,3,14,Diploma,Canada,150118
+470,Backend Developer,14,15,High School,Sweden,154630
+471,Product Manager,10,1,PhD,India,87584
+472,AI Engineer,2,12,PhD,Germany,168376
+473,Cloud Engineer,13,6,Diploma,Singapore,146544
+474,Cybersecurity Analyst,19,1,Master,Singapore,189344
+475,Product Manager,20,7,Diploma,Australia,153202
+476,Data Scientist,13,14,PhD,Germany,180365
+477,Backend Developer,1,12,Bachelor,Netherlands,99938
+478,Backend Developer,8,6,Bachelor,UK,119892
+479,Data Scientist,8,13,Diploma,Singapore,137705
+480,Software Engineer,15,2,Bachelor,Canada,180809
+481,DevOps Engineer,7,18,Diploma,USA,190616
+482,Cloud Engineer,0,4,Bachelor,USA,136633
+483,Business Analyst,6,9,Bachelor,India,70039
+484,Product Manager,6,17,Bachelor,UK,158150
+485,Data Scientist,5,16,Bachelor,India,99684
+486,AI Engineer,19,4,Bachelor,UK,176482
+487,Product Manager,18,14,High School,Germany,166022
+488,DevOps Engineer,0,19,Diploma,UK,136133
+489,AI Engineer,2,18,Bachelor,UK,213017
+490,Machine Learning Engineer,0,7,High School,Australia,101100
+491,Cybersecurity Analyst,9,19,High School,Canada,153359
+492,Backend Developer,12,6,Master,Canada,178524
+493,Machine Learning Engineer,2,2,Master,UK,141297
+494,Product Manager,9,2,Bachelor,Singapore,155112
+495,DevOps Engineer,5,8,High School,Singapore,135155
+496,Cloud Engineer,16,6,Bachelor,Australia,156314
+497,Cybersecurity Analyst,16,4,Master,Remote,151970
+498,Product Manager,14,11,High School,India,111663
+499,Data Scientist,3,17,Diploma,Netherlands,115758
+500,Data Analyst,10,9,PhD,UK,174413
+501,Product Manager,7,6,PhD,Germany,209720
+502,Cybersecurity Analyst,3,11,Master,Remote,115695
+503,Backend Developer,20,18,Bachelor,Canada,187476
+504,Backend Developer,10,14,High School,USA,157874
+505,Product Manager,2,17,High School,Germany,130986
+506,AI Engineer,5,10,Diploma,India,117626
+507,Data Analyst,10,12,Master,India,79399
+508,Data Scientist,1,5,PhD,Sweden,154270
+509,Product Manager,0,13,Diploma,Canada,125323
+510,AI Engineer,5,3,Bachelor,Sweden,150776
+511,Backend Developer,3,10,High School,UK,113682
+512,Backend Developer,6,2,Diploma,Netherlands,119020
+513,DevOps Engineer,14,1,PhD,UK,225585
+514,Product Manager,4,16,Bachelor,Australia,103246
+515,Data Analyst,1,2,Bachelor,Singapore,76120
+516,Software Engineer,1,6,Master,UK,120724
+517,Data Analyst,5,10,Diploma,India,66655
+518,Backend Developer,7,1,Bachelor,India,94515
+519,Backend Developer,16,19,PhD,Australia,165120
+520,Machine Learning Engineer,2,3,PhD,UK,136855
+521,Backend Developer,4,1,Diploma,Australia,81070
+522,Data Scientist,1,1,PhD,Germany,124013
+523,Business Analyst,12,17,Diploma,UK,163107
+524,Product Manager,10,9,PhD,Germany,181329
+525,Data Analyst,2,2,PhD,Canada,117155
+526,Business Analyst,11,5,High School,Sweden,110382
+527,AI Engineer,4,1,High School,Netherlands,112183
+528,Software Engineer,15,5,Bachelor,Australia,145140
+529,Data Scientist,13,14,Bachelor,India,109157
+530,Cybersecurity Analyst,8,9,Diploma,Sweden,121082
+531,Frontend Developer,1,14,Bachelor,Singapore,106182
+532,Data Analyst,7,10,Master,Singapore,95343
+533,Business Analyst,16,13,PhD,Netherlands,136590
+534,Cybersecurity Analyst,13,13,Bachelor,India,100825
+535,Software Engineer,5,19,Master,Remote,127005
+536,Machine Learning Engineer,18,4,PhD,Canada,271175
+537,Cybersecurity Analyst,0,1,Diploma,Canada,109523
+538,Data Scientist,20,17,High School,India,93279
+539,Data Scientist,8,15,Master,USA,228422
+540,Machine Learning Engineer,14,11,High School,UK,176169
+541,Frontend Developer,11,19,High School,Australia,118210
+542,Product Manager,15,14,Diploma,Australia,191668
+543,Cybersecurity Analyst,12,17,Master,Sweden,189252
+544,Machine Learning Engineer,13,18,Bachelor,Canada,183042
+545,Data Scientist,10,14,High School,Remote,116004
+546,Data Scientist,9,12,Master,USA,194130
+547,Business Analyst,3,11,Master,Netherlands,126312
+548,Backend Developer,6,4,Bachelor,Singapore,106402
+549,Frontend Developer,0,6,Bachelor,Sweden,99387
+550,Cybersecurity Analyst,3,8,High School,Netherlands,117671
+551,Cybersecurity Analyst,13,3,PhD,Singapore,137123
+552,Software Engineer,19,1,Bachelor,Remote,162204
+553,Machine Learning Engineer,4,5,Bachelor,Netherlands,117245
+554,Software Engineer,11,11,PhD,Netherlands,127996
+555,Machine Learning Engineer,2,18,Diploma,Netherlands,122020
+556,AI Engineer,1,7,High School,Australia,127977
+557,Data Scientist,1,3,Diploma,Netherlands,98218
+558,Backend Developer,10,15,High School,UK,127304
+559,Business Analyst,3,11,Master,Canada,143314
+560,Backend Developer,8,15,High School,Sweden,123916
+561,Backend Developer,0,14,PhD,India,78855
+562,Backend Developer,17,1,Bachelor,Singapore,151532
+563,Software Engineer,20,8,High School,Germany,161508
+564,Machine Learning Engineer,17,15,Diploma,USA,202624
+565,Cloud Engineer,1,16,Diploma,USA,174025
+566,AI Engineer,20,13,High School,Remote,155205
+567,Data Analyst,14,4,Bachelor,Canada,150047
+568,Backend Developer,6,14,Bachelor,India,95276
+569,Product Manager,17,18,Diploma,Netherlands,143471
+570,Software Engineer,1,6,Diploma,Australia,113626
+571,Frontend Developer,4,18,Master,Australia,132099
+572,Business Analyst,17,14,Bachelor,Australia,123054
+573,Data Analyst,18,10,High School,Canada,131033
+574,Cloud Engineer,17,3,Bachelor,India,117073
+575,Product Manager,16,12,Master,Canada,179822
+576,Cloud Engineer,16,3,PhD,Canada,200631
+577,Data Analyst,3,19,Bachelor,Singapore,93785
+578,Backend Developer,4,10,Bachelor,Canada,157751
+579,Product Manager,8,14,Diploma,Remote,136663
+580,Cloud Engineer,17,6,Master,Netherlands,168990
+581,Business Analyst,7,10,High School,Netherlands,86299
+582,Machine Learning Engineer,8,14,Diploma,India,116536
+583,Data Scientist,7,2,PhD,UK,156407
+584,Machine Learning Engineer,1,15,Master,Germany,153739
+585,Data Analyst,10,13,PhD,Singapore,135596
+586,Software Engineer,1,15,Bachelor,Singapore,102866
+587,Data Scientist,16,7,High School,Australia,127078
+588,AI Engineer,1,1,Diploma,Netherlands,155170
+589,Business Analyst,3,19,Master,Canada,161028
+590,AI Engineer,4,2,Master,Germany,151331
+591,Product Manager,11,4,Master,USA,234512
+592,Cybersecurity Analyst,12,18,High School,Netherlands,136858
+593,Data Scientist,17,3,Diploma,Remote,141290
+594,AI Engineer,17,13,Master,Sweden,164877
+595,AI Engineer,4,16,High School,Canada,169051
+596,Cloud Engineer,13,9,High School,Australia,132717
+597,Machine Learning Engineer,19,18,Diploma,Sweden,202383
+598,Cloud Engineer,16,1,Bachelor,Remote,141064
+599,Data Scientist,4,17,Bachelor,Germany,127972
+600,Data Scientist,20,9,Bachelor,Remote,186145
+601,Data Analyst,18,19,High School,Canada,146510
+602,Cloud Engineer,17,10,Master,UK,172272
+603,DevOps Engineer,15,9,Bachelor,Australia,135004
+604,Frontend Developer,1,17,Master,Netherlands,126042
+605,Machine Learning Engineer,4,7,Master,Sweden,168386
+606,Data Scientist,5,1,Diploma,Australia,102224
+607,Data Analyst,18,4,Diploma,Singapore,124986
+608,Cybersecurity Analyst,17,4,Bachelor,UK,210569
+609,Cloud Engineer,4,16,Diploma,UK,149972
+610,Machine Learning Engineer,8,1,High School,Sweden,115386
+611,Cybersecurity Analyst,6,11,High School,Canada,145964
+612,Cloud Engineer,12,16,High School,UK,180482
+613,AI Engineer,19,16,Diploma,Germany,193229
+614,Cybersecurity Analyst,20,9,Diploma,Sweden,149184
+615,Data Analyst,17,4,Master,Remote,124891
+616,Machine Learning Engineer,11,18,Diploma,Australia,142106
+617,Backend Developer,5,2,PhD,Germany,146613
+618,Product Manager,17,16,PhD,Australia,200568
+619,Product Manager,16,3,Diploma,Singapore,172431
+620,Machine Learning Engineer,20,14,Diploma,Netherlands,193379
+621,Cybersecurity Analyst,7,5,Master,India,112614
+622,Cloud Engineer,7,14,Master,UK,168293
+623,Data Analyst,15,8,High School,Canada,140017
+624,Frontend Developer,2,4,PhD,Remote,126950
+625,Product Manager,2,7,PhD,Germany,151595
+626,Data Analyst,4,11,Diploma,India,61628
+627,Product Manager,7,15,PhD,Sweden,162393
+628,AI Engineer,18,14,Diploma,USA,260034
+629,Cloud Engineer,17,2,Master,Remote,174252
+630,AI Engineer,0,15,Bachelor,USA,165227
+631,Product Manager,5,12,Diploma,Canada,141375
+632,Backend Developer,0,8,Bachelor,Germany,128491
+633,Backend Developer,14,10,Diploma,Singapore,120684
+634,AI Engineer,17,7,Diploma,Remote,151652
+635,Backend Developer,9,16,PhD,USA,192200
+636,Product Manager,8,5,PhD,USA,222854
+637,Machine Learning Engineer,11,15,High School,Netherlands,135019
+638,AI Engineer,17,10,Diploma,USA,268299
+639,Frontend Developer,5,11,High School,UK,134628
+640,Frontend Developer,19,17,Master,Netherlands,140750
+641,Software Engineer,18,10,PhD,UK,195742
+642,Cybersecurity Analyst,7,17,PhD,India,94018
+643,Cloud Engineer,8,5,Diploma,India,74045
+644,Backend Developer,16,11,Diploma,India,82506
+645,Backend Developer,12,8,Diploma,Remote,127325
+646,Cybersecurity Analyst,10,12,Diploma,Canada,196691
+647,Data Scientist,17,16,Master,Netherlands,158924
+648,DevOps Engineer,15,13,Bachelor,UK,145611
+649,AI Engineer,1,18,Bachelor,USA,211488
+650,Business Analyst,6,4,Diploma,UK,106048
+651,Backend Developer,18,9,Bachelor,Remote,182841
+652,Cloud Engineer,0,1,Master,Sweden,116380
+653,Software Engineer,13,11,PhD,Netherlands,138288
+654,Frontend Developer,2,1,High School,UK,109976
+655,Backend Developer,7,15,Bachelor,Remote,139456
+656,Software Engineer,13,11,Bachelor,Germany,142278
+657,Product Manager,2,11,Diploma,Netherlands,107340
+658,Product Manager,7,15,Diploma,Netherlands,126128
+659,DevOps Engineer,5,8,Bachelor,Canada,137560
+660,Machine Learning Engineer,1,19,Bachelor,India,120362
+661,Business Analyst,7,5,High School,UK,92407
+662,Data Scientist,18,17,PhD,Australia,166263
+663,DevOps Engineer,3,6,High School,Canada,109136
+664,Data Analyst,9,17,Master,UK,167499
+665,Data Scientist,12,10,Bachelor,Australia,139634
+666,AI Engineer,13,11,PhD,Singapore,220440
+667,Cloud Engineer,5,5,Bachelor,Germany,148866
+668,Data Analyst,1,11,Master,Netherlands,75799
+669,Data Analyst,12,10,Bachelor,India,73369
+670,DevOps Engineer,7,16,Diploma,Canada,166861
+671,Cybersecurity Analyst,16,2,High School,India,90028
+672,Machine Learning Engineer,9,8,Diploma,USA,226252
+673,Cybersecurity Analyst,10,13,Bachelor,Sweden,156370
+674,DevOps Engineer,1,6,High School,Germany,96747
+675,AI Engineer,19,5,High School,Netherlands,186747
+676,Frontend Developer,20,10,Diploma,India,81898
+677,Backend Developer,9,15,High School,Remote,102746
+678,Backend Developer,20,9,PhD,Germany,164163
+679,Machine Learning Engineer,4,5,PhD,UK,155371
+680,AI Engineer,19,18,Diploma,Germany,193754
+681,Machine Learning Engineer,11,16,Master,Sweden,167618
+682,Software Engineer,16,5,Master,Singapore,145125
+683,Cybersecurity Analyst,16,13,Diploma,Netherlands,156865
+684,Backend Developer,1,6,Bachelor,Netherlands,113061
+685,Data Analyst,9,9,PhD,Australia,107004
+686,Cybersecurity Analyst,5,15,High School,Canada,142577
+687,Business Analyst,15,9,Master,Germany,161498
+688,Cloud Engineer,7,18,Master,UK,206994
+689,AI Engineer,5,7,Bachelor,India,106462
+690,Data Scientist,5,2,High School,UK,107079
+691,Machine Learning Engineer,8,19,Bachelor,USA,190932
+692,Cybersecurity Analyst,0,10,Bachelor,India,72567
+693,Cloud Engineer,13,2,High School,Canada,151863
+694,Cybersecurity Analyst,20,14,High School,Canada,230834
+695,Data Scientist,12,9,Bachelor,Australia,136028
+696,Cloud Engineer,13,5,High School,India,92702
+697,Business Analyst,20,2,High School,Canada,168706
+698,Data Scientist,19,1,Diploma,Sweden,175406
+699,DevOps Engineer,13,4,PhD,Singapore,193325
+700,Product Manager,0,12,Diploma,UK,115902
+701,DevOps Engineer,3,5,Diploma,Australia,95425
+702,Backend Developer,17,8,High School,Sweden,113716
+703,Cybersecurity Analyst,6,19,Bachelor,Australia,122127
+704,Product Manager,6,2,High School,India,75243
+705,DevOps Engineer,11,8,Master,India,123671
+706,Product Manager,16,10,Diploma,Netherlands,140834
+707,Frontend Developer,7,9,High School,Remote,106882
+708,Cybersecurity Analyst,2,7,PhD,Singapore,149906
+709,Product Manager,20,7,Diploma,USA,219264
+710,Data Analyst,20,18,Master,India,125270
+711,Machine Learning Engineer,3,1,PhD,Canada,162954
+712,Machine Learning Engineer,13,15,PhD,Australia,161503
+713,Data Analyst,10,2,Bachelor,UK,102213
+714,Cloud Engineer,15,5,Bachelor,Netherlands,161414
+715,Software Engineer,20,12,Master,USA,200075
+716,Cloud Engineer,12,3,Bachelor,Remote,148317
+717,Data Scientist,18,13,Bachelor,Germany,158882
+718,Data Scientist,18,16,Diploma,Netherlands,190687
+719,Product Manager,10,8,PhD,Remote,149339
+720,DevOps Engineer,5,10,Diploma,Remote,107889
+721,DevOps Engineer,0,14,High School,UK,104053
+722,Machine Learning Engineer,12,3,High School,Netherlands,138436
+723,AI Engineer,18,12,Master,Singapore,222487
+724,Cloud Engineer,11,12,PhD,UK,206078
+725,Frontend Developer,7,11,Diploma,USA,174034
+726,Cybersecurity Analyst,13,10,Bachelor,UK,136796
+727,Backend Developer,8,5,PhD,India,128003
+728,Business Analyst,8,12,Master,Netherlands,112660
+729,DevOps Engineer,7,4,Bachelor,Netherlands,150373
+730,Cybersecurity Analyst,2,13,Diploma,Netherlands,135496
+731,Business Analyst,18,4,Master,Australia,123752
+732,Cybersecurity Analyst,0,5,Master,Australia,124473
+733,Product Manager,13,18,Master,Sweden,167452
+734,Business Analyst,14,11,Master,Singapore,171408
+735,Backend Developer,19,11,Diploma,Sweden,171246
+736,Cybersecurity Analyst,18,13,High School,UK,195961
+737,Data Analyst,0,10,Master,Germany,107806
+738,Backend Developer,7,6,Master,USA,194099
+739,Business Analyst,1,10,PhD,Remote,130028
+740,Backend Developer,10,14,Master,India,116948
+741,Cybersecurity Analyst,13,8,High School,Remote,120310
+742,Software Engineer,13,12,Bachelor,UK,146521
+743,Cybersecurity Analyst,16,9,Master,Australia,161013
+744,Cybersecurity Analyst,3,14,PhD,Singapore,122747
+745,Product Manager,4,9,High School,Netherlands,134701
+746,Cloud Engineer,2,12,High School,India,76861
+747,Data Analyst,4,3,Master,India,69747
+748,Frontend Developer,13,11,PhD,UK,176362
+749,DevOps Engineer,7,12,PhD,Australia,141602
+750,Data Scientist,0,9,PhD,Netherlands,117856
+751,Cloud Engineer,2,18,Bachelor,India,95119
+752,Data Scientist,19,13,PhD,Netherlands,213563
+753,Product Manager,16,5,High School,Singapore,164286
+754,Data Analyst,10,3,PhD,Remote,107701
+755,Cybersecurity Analyst,12,13,PhD,Singapore,157332
+756,Machine Learning Engineer,2,1,High School,Canada,126161
+757,DevOps Engineer,17,2,Master,Netherlands,182388
+758,Software Engineer,3,7,PhD,Germany,146751
+759,Machine Learning Engineer,16,19,Bachelor,UK,190303
+760,Product Manager,6,15,Master,Singapore,139632
+761,Cloud Engineer,7,13,Bachelor,Australia,154051
+762,Software Engineer,3,7,PhD,Remote,162708
+763,Backend Developer,6,3,Diploma,Germany,127197
+764,Business Analyst,16,18,Diploma,Netherlands,109675
+765,Software Engineer,10,5,PhD,India,85895
+766,Frontend Developer,11,1,PhD,USA,206931
+767,Product Manager,13,8,Bachelor,Remote,140322
+768,AI Engineer,18,2,Diploma,Sweden,182029
+769,Business Analyst,14,8,Diploma,Netherlands,136145
+770,Data Scientist,17,15,High School,India,102473
+771,DevOps Engineer,11,12,High School,Singapore,118972
+772,Data Scientist,10,2,High School,India,87411
+773,Software Engineer,20,4,Master,Sweden,156105
+774,Data Scientist,19,11,High School,Australia,149157
+775,Frontend Developer,18,5,Bachelor,UK,159726
+776,Product Manager,2,10,Diploma,Sweden,134127
+777,Backend Developer,16,19,Diploma,Remote,171087
+778,Cloud Engineer,18,3,Bachelor,UK,202613
+779,DevOps Engineer,12,6,PhD,Sweden,149243
+780,Frontend Developer,6,14,PhD,Remote,121659
+781,Frontend Developer,9,3,Master,Germany,142672
+782,Data Scientist,7,3,Diploma,Sweden,114326
+783,Data Scientist,6,19,Bachelor,Canada,193230
+784,Software Engineer,9,16,Master,Australia,165981
+785,Cloud Engineer,4,7,Master,Australia,155595
+786,Machine Learning Engineer,17,8,High School,Singapore,190588
+787,Data Scientist,9,1,Bachelor,Germany,143550
+788,Product Manager,4,12,High School,USA,145066
+789,AI Engineer,3,4,Master,Sweden,174094
+790,DevOps Engineer,20,7,PhD,UK,253445
+791,Cybersecurity Analyst,6,2,Master,Germany,170210
+792,Data Scientist,8,10,Diploma,India,80304
+793,Product Manager,3,9,Diploma,Remote,109855
+794,Product Manager,0,11,High School,India,71975
+795,DevOps Engineer,9,1,High School,UK,149459
+796,Machine Learning Engineer,17,6,PhD,Canada,207139
+797,Product Manager,16,14,High School,Canada,197852
+798,AI Engineer,9,18,PhD,Australia,173546
+799,Product Manager,20,6,Bachelor,Sweden,161581
+800,Product Manager,1,2,High School,India,84923
+801,Product Manager,13,10,Master,UK,180101
+802,Backend Developer,20,1,Diploma,UK,142580
+803,Backend Developer,13,19,PhD,Netherlands,161395
+804,Machine Learning Engineer,0,3,PhD,Netherlands,143676
+805,Data Scientist,4,17,Bachelor,Remote,128728
+806,Product Manager,13,3,PhD,Netherlands,185924
+807,Cloud Engineer,1,8,Bachelor,Remote,113801
+808,Data Scientist,20,11,Bachelor,Germany,198644
+809,Machine Learning Engineer,10,18,PhD,Canada,206357
+810,Data Analyst,18,10,PhD,Netherlands,189353
+811,Data Scientist,12,8,Master,Canada,149172
+812,Data Scientist,10,18,Master,USA,230819
+813,Business Analyst,5,8,Master,Remote,132304
+814,Software Engineer,7,7,High School,USA,143056
+815,Cybersecurity Analyst,14,3,PhD,Netherlands,162554
+816,Business Analyst,19,2,High School,Remote,109044
+817,AI Engineer,0,8,Master,Canada,194943
+818,Backend Developer,13,19,Master,Canada,162024
+819,Backend Developer,16,14,Bachelor,Germany,146408
+820,Software Engineer,5,14,Master,Netherlands,131905
+821,DevOps Engineer,1,3,Bachelor,Australia,83923
+822,DevOps Engineer,8,1,High School,Sweden,115056
+823,Machine Learning Engineer,2,1,Bachelor,Remote,109281
+824,Frontend Developer,19,1,Bachelor,Australia,131732
+825,Software Engineer,14,7,Diploma,Netherlands,136207
+826,Cybersecurity Analyst,3,7,High School,Singapore,94346
+827,Data Scientist,7,6,Diploma,Remote,137938
+828,DevOps Engineer,1,17,PhD,UK,158810
+829,Cybersecurity Analyst,1,19,Master,Australia,122983
+830,Product Manager,13,1,Diploma,Australia,155567
+831,Frontend Developer,12,12,Diploma,UK,123988
+832,Cloud Engineer,15,2,High School,Singapore,173096
+833,Data Scientist,4,5,Diploma,India,68742
+834,AI Engineer,2,4,High School,Australia,136994
+835,Product Manager,6,6,PhD,Germany,161017
+836,Product Manager,3,19,Diploma,Netherlands,116974
+837,Software Engineer,16,11,Bachelor,Sweden,166152
+838,Frontend Developer,15,4,Bachelor,Sweden,138651
+839,Machine Learning Engineer,14,7,Master,USA,254965
+840,AI Engineer,4,12,High School,Remote,119502
+841,DevOps Engineer,10,13,High School,Singapore,148235
+842,Cybersecurity Analyst,11,15,PhD,Sweden,150802
+843,Software Engineer,18,18,Diploma,Australia,143676
+844,DevOps Engineer,8,16,PhD,Australia,143086
+845,Software Engineer,10,7,Master,UK,164362
+846,Software Engineer,18,18,Bachelor,India,122765
+847,Software Engineer,1,6,PhD,Canada,152085
+848,Frontend Developer,15,12,Master,Germany,148854
+849,Machine Learning Engineer,4,15,PhD,Remote,184748
+850,Software Engineer,8,14,High School,USA,143252
+851,Data Analyst,9,8,Diploma,Australia,112903
+852,Cloud Engineer,13,19,Bachelor,Netherlands,167169
+853,DevOps Engineer,0,3,Master,Germany,127088
+854,Data Scientist,18,11,Diploma,Remote,133875
+855,Business Analyst,20,4,Bachelor,Netherlands,117127
+856,Cybersecurity Analyst,19,2,PhD,Canada,220571
+857,AI Engineer,7,2,Diploma,Australia,148054
+858,Backend Developer,0,3,Bachelor,Germany,99229
+859,Machine Learning Engineer,7,19,Master,Germany,200465
+860,Data Scientist,2,19,Master,Remote,162503
+861,Product Manager,15,7,Diploma,USA,191542
+862,Data Analyst,7,7,PhD,USA,116330
+863,Backend Developer,20,12,Master,Canada,175402
+864,Business Analyst,19,13,Master,Germany,153848
+865,Data Scientist,3,3,Master,USA,146289
+866,Backend Developer,5,7,Diploma,Sweden,111954
+867,Data Scientist,12,8,High School,Singapore,123330
+868,Cybersecurity Analyst,6,10,Diploma,Canada,151236
+869,Data Analyst,0,3,High School,Sweden,88851
+870,Business Analyst,14,15,Bachelor,Germany,137423
+871,Product Manager,14,10,Master,Singapore,145657
+872,Software Engineer,11,1,High School,Canada,173316
+873,DevOps Engineer,4,11,PhD,Australia,135148
+874,Product Manager,0,8,Diploma,Sweden,139757
+875,Software Engineer,17,16,High School,India,118320
+876,Frontend Developer,20,12,Master,Remote,182150
+877,Frontend Developer,2,10,Bachelor,Canada,108752
+878,Frontend Developer,11,10,Diploma,Canada,177451
+879,Machine Learning Engineer,17,14,Master,India,152226
+880,Cloud Engineer,13,2,High School,Netherlands,130958
+881,AI Engineer,18,17,Diploma,Singapore,203591
+882,AI Engineer,18,19,High School,Canada,204913
+883,Frontend Developer,8,19,PhD,Remote,129663
+884,DevOps Engineer,2,2,Diploma,Germany,145581
+885,Business Analyst,18,4,PhD,Remote,135908
+886,Data Analyst,18,10,High School,Canada,168124
+887,Business Analyst,17,7,Master,UK,168547
+888,Data Analyst,3,7,Bachelor,Remote,95851
+889,Business Analyst,16,3,Master,Australia,146768
+890,Cloud Engineer,7,7,Master,Germany,194056
+891,Machine Learning Engineer,19,2,PhD,Canada,200157
+892,Machine Learning Engineer,7,14,Master,Netherlands,157352
+893,Frontend Developer,4,11,High School,Australia,91996
+894,Software Engineer,15,11,PhD,Netherlands,185704
+895,Backend Developer,18,19,Diploma,Canada,192219
+896,Machine Learning Engineer,13,10,Diploma,UK,172438
+897,Machine Learning Engineer,12,4,Diploma,Australia,140950
+898,Product Manager,12,19,PhD,Sweden,176762
+899,Product Manager,9,16,Diploma,Netherlands,155709
+900,Software Engineer,19,15,Master,Netherlands,162676
+901,Cybersecurity Analyst,4,6,High School,Australia,101480
+902,Backend Developer,19,9,High School,Australia,152939
+903,DevOps Engineer,14,3,Diploma,Australia,156768
+904,Product Manager,1,14,High School,Germany,119563
+905,DevOps Engineer,15,17,Diploma,Germany,161329
+906,Data Scientist,16,13,Master,Remote,142132
+907,Product Manager,15,19,Master,UK,239595
+908,Cloud Engineer,10,6,PhD,USA,194043
+909,Cybersecurity Analyst,10,6,High School,Germany,153450
+910,Backend Developer,16,12,Master,USA,191760
+911,Software Engineer,0,18,Bachelor,Netherlands,93583
+912,Data Scientist,13,11,PhD,Remote,140891
+913,Backend Developer,3,3,Master,Canada,176048
+914,Frontend Developer,19,2,Master,Germany,136432
+915,Cloud Engineer,12,6,Diploma,Canada,168170
+916,Backend Developer,5,2,Master,Singapore,134855
+917,Cloud Engineer,12,12,Diploma,Remote,143630
+918,Cloud Engineer,20,16,Diploma,Canada,202825
+919,DevOps Engineer,15,16,PhD,Australia,198443
+920,Business Analyst,8,6,Bachelor,India,60338
+921,Frontend Developer,13,11,High School,Netherlands,116909
+922,Data Scientist,11,18,High School,USA,170931
+923,Backend Developer,7,8,Diploma,Singapore,117549
+924,Data Analyst,15,16,PhD,USA,210913
+925,Data Scientist,17,12,PhD,Remote,180129
+926,Business Analyst,3,2,PhD,Sweden,124600
+927,Data Scientist,19,12,Master,Netherlands,177073
+928,Machine Learning Engineer,6,14,High School,UK,176476
+929,Data Analyst,5,8,PhD,India,62693
+930,Business Analyst,6,15,Master,Australia,101370
+931,DevOps Engineer,9,6,PhD,Remote,139707
+932,Backend Developer,7,11,Bachelor,Sweden,108283
+933,Cybersecurity Analyst,4,10,Diploma,Germany,118236
+934,AI Engineer,17,4,High School,Canada,181687
+935,Business Analyst,11,13,High School,Australia,101320
+936,Software Engineer,0,9,Bachelor,Remote,93671
+937,Backend Developer,2,7,Bachelor,Australia,113549
+938,Frontend Developer,8,12,High School,Singapore,113740
+939,Business Analyst,14,19,PhD,Remote,144879
+940,Machine Learning Engineer,1,2,Diploma,Netherlands,130892
+941,AI Engineer,1,12,High School,Sweden,111853
+942,Machine Learning Engineer,7,5,Bachelor,UK,158138
+943,AI Engineer,14,15,Master,Remote,164175
+944,Frontend Developer,14,5,PhD,Remote,127889
+945,Cybersecurity Analyst,1,14,Bachelor,Remote,123006
+946,Software Engineer,13,17,Bachelor,Germany,167951
+947,Backend Developer,1,12,High School,India,61271
+948,DevOps Engineer,19,5,Bachelor,UK,208357
+949,Machine Learning Engineer,16,16,Bachelor,India,109776
+950,Machine Learning Engineer,7,9,Bachelor,Australia,173725
+951,Cloud Engineer,20,16,PhD,USA,292855
+952,AI Engineer,14,12,PhD,UK,189488
+953,Product Manager,20,15,Diploma,Australia,158265
+954,Cybersecurity Analyst,7,11,PhD,USA,214458
+955,Backend Developer,12,18,High School,Remote,122432
+956,AI Engineer,0,17,Bachelor,Canada,174721
+957,Cloud Engineer,17,6,Bachelor,UK,176972
+958,Data Scientist,13,14,High School,Germany,139467
+959,AI Engineer,8,14,Diploma,Australia,145355
+960,DevOps Engineer,16,2,High School,Sweden,128049
+961,Backend Developer,5,12,Bachelor,Australia,98571
+962,Cybersecurity Analyst,5,6,PhD,Germany,155887
+963,Cloud Engineer,2,5,Master,India,84622
+964,Data Scientist,10,17,High School,Remote,114906
+965,Data Analyst,8,18,Master,India,70164
+966,Cloud Engineer,14,8,High School,Remote,160987
+967,Data Analyst,13,9,Master,Singapore,140418
+968,Backend Developer,5,2,Diploma,Singapore,131287
+969,Machine Learning Engineer,12,7,Master,Australia,151911
+970,Cloud Engineer,18,5,Bachelor,USA,189793
+971,Software Engineer,10,2,High School,Germany,131454
+972,Data Analyst,7,2,High School,Sweden,85181
+973,DevOps Engineer,20,6,Diploma,Australia,138684
+974,Software Engineer,7,3,Bachelor,India,97676
+975,Business Analyst,17,10,Master,Netherlands,127349
+976,Business Analyst,11,14,Diploma,India,70550
+977,Data Scientist,9,14,PhD,Netherlands,154741
+978,Cybersecurity Analyst,6,15,PhD,Remote,142140
+979,Machine Learning Engineer,20,6,High School,Remote,202412
+980,Backend Developer,20,5,Diploma,India,99128
+981,Cloud Engineer,19,9,High School,India,91413
+982,Product Manager,8,16,Diploma,Germany,139968
+983,DevOps Engineer,7,6,PhD,Germany,170360
+984,Data Analyst,10,10,Diploma,Australia,98339
+985,Backend Developer,5,12,High School,USA,163877
+986,Software Engineer,2,16,Master,Remote,154674
+987,Frontend Developer,19,10,High School,Australia,120700
+988,Business Analyst,13,12,PhD,Remote,120623
+989,Frontend Developer,13,12,Diploma,Germany,157997
+990,DevOps Engineer,14,12,High School,Sweden,132698
+991,Product Manager,0,4,High School,UK,150037
+992,Cloud Engineer,11,19,Master,Germany,150764
+993,Data Scientist,10,3,PhD,Germany,181546
+994,Product Manager,6,4,High School,Singapore,122594
+995,DevOps Engineer,11,4,Master,UK,162467
+996,Product Manager,8,12,High School,India,94651
+997,DevOps Engineer,12,16,Master,Sweden,181765
+998,DevOps Engineer,12,14,High School,USA,169701
+999,AI Engineer,5,2,High School,India,111335
