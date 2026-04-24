@@ -998,3 +998,18 @@ profissao(product_manager, 8, 12, high_school, india, 94651).
 profissao(devops_engineer, 12, 16, master, sweden, 181765).
 profissao(devops_engineer, 12, 14, high_school, usa, 169701).
 profissao(ai_engineer, 5, 2, high_school, india, 111335).
+
+%Regras
+ganha_mais_com_menos_anos(Area) :-
+    profissao(Area,Anos1,_,_,_,Salario1),
+    profissao(Area,Anos2,_,_,_,Salario2),
+    Anos1 < Anos2,
+    Salario1 > Salario2.
+
+pessoa_ensino_medio_mais_experiencia(Educacao2) :-
+    profissao(_,Anos1,Habilidades1,high_school,_,_),
+    profissao(_,Anos2,Habilidades2,Educacao2,_,_),
+	Educacao2 \= high_school,
+	Anos1 > Anos2,
+	Habilidades1> Habilidades2.
+
