@@ -1000,16 +1000,49 @@ profissao(devops_engineer, 12, 14, high_school, usa, 169701).
 profissao(ai_engineer, 5, 2, high_school, india, 111335).
 
 %Regras
-ganha_mais_com_menos_anos(Area) :-
-    profissao(Area,Anos1,_,_,_,Salario1),
-    profissao(Area,Anos2,_,_,_,Salario2),
-    Anos1 < Anos2,
-    Salario1 > Salario2.
 
 pessoa_ensino_medio_mais_experiencia(Educacao2) :-
     profissao(_,Anos1,Habilidades1,high_school,_,_),
     profissao(_,Anos2,Habilidades2,Educacao2,_,_),
-	Educacao2 \= high_school,
-	Anos1 > Anos2,
-	Habilidades1> Habilidades2.
+    
+    Educacao2 \= high_school,
+    (
+        Anos2 =< Anos1
+        ;
+        Habilidades2 =< Habilidades1
+    ).
+
+media_salarial(Area, Media) :-
+    setof(Salario, Anos^Hab^Edu^Loc^profissao(Area,Anos,Hab,Edu,Loc,Salario), Lista),
+    sum_list(Lista, Soma),
+    length(Lista, N),
+    N > 0,
+    Media is Soma / N.
+
+maior_media_salarial(Area, Media) :-
+    setof((Media, Area), media_salarial(Area, Media), Lista),
+    last(Lista, (Media, Area)).
+
+profissional_phd_master(Localizacao, 1) :-
+    profissao(_,_,_,Edu,Localizacao,_),
+    (Edu == phd ; Edu == master).
+
+
+contagem_profissionais_phd_master(Localizacao, Total) :-
+    setof(Localizacao, A^B^C^D^profissao(_,A,B,C,Localizacao,D), Localizacoes),
+    member(Localizacao, Localizacoes),
+    findall(N, profissional_phd_master(Localizacao, N), Lista),
+    sum_list(Lista, Total).
+
+
+localizacao_mais_profissionais_phd_master(Localizacao, Qtd) :-
+    findall((Qtd, Localizacao),
+            contagem_profissionais_phd_master(Localizacao, Qtd),
+            Lista),
+    sort(Lista, ListaOrdenada),
+    last(ListaOrdenada, (Qtd, Localizacao)).
+    
+    
+    
+    
 

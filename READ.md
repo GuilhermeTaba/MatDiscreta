@@ -10,8 +10,10 @@
 - localizacao
 - salario
 
-
 Perguntas:
-1 - Todo mundo de mesma area com mais anos de experiencia ganha mais?
 
-2 - Toda pessoa que tem formacao superior tem mais anos de experiencia e mais habilidades?
+1 - Toda pessoa que tem formacao superior tem mais anos de experiencia e mais habilidades do que uma pessoa do ensino medio?
+
+2- Qual área possui a maior média salarial?
+
+3 - Em que localizacao possui mais profissionais com phd e master
