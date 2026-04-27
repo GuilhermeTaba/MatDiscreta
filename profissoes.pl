@@ -1008,7 +1008,7 @@ pessoa_ensino_medio_mais_experiencia(Educacao2) :-
     Educacao2 \= high_school,
     (
         Anos2 =< Anos1
-        ;
+        ,
         Habilidades2 =< Habilidades1
     ).
 
