@@ -69,11 +69,12 @@ pessoa_ensino_medio_mais_experiencia(Educacao).
 
 Resultado:
 
-* `Educacao2 = diploma ...`
+* `Educacao2 = diploma 
 
 Conclusão:
 
-* Isso mostra um contraexemplo, logo a afirmação é **falsa** (prova por contraposição).
+* Isso mostra que a afirmacao é falsa por contraposição
+* Se quisermos outros exemplos apertamos Next
 
 ---
 
