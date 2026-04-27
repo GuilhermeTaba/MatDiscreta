@@ -1,17 +1,15 @@
 
 ---
-
 # Fonte do Dataset
 
-* [https://www.kaggle.com/datasets/nalisha/job-salary-prediction-dataset?resource=download](https://www.kaggle.com/datasets/nalisha/job-salary-prediction-dataset?resource=download)
+- https://www.kaggle.com/datasets/nalisha/job-salary-prediction-dataset?resource=download
 
 ## Variáveis escolhidas
 
-## Variáveis escolhidas
+| Área | Experiência | Habilidades técnicas | Nível de educação | Localização | Salário |
+|------|------------|----------------------|-------------------|------------|---------|
+|      |            |                      |                   |            |         |
 
-| Profissão | Experiência | Habilidades técnicas | Nível de educação | Localização | Salário |
-|-----------|------------|----------------------|-------------------|------------|---------|
-|           |            |                      |                   |            |         |
 ---
 
 # Construção da Base de Conhecimento
@@ -19,9 +17,9 @@
 ## Normalização do dataset (`construcao.py`)
 
 ```python
-for column in ["Profissao", "Nivel Educacao", "Localizacao"]:
+for column in ["Area", "Nivel Educacao", "Localizacao"]:
     df[column] = df[column].str.lower().str.strip().str.replace(" ", "_")
-```
+````
 
 ## Conversão do CSV para `.pl`
 
@@ -29,7 +27,7 @@ for column in ["Profissao", "Nivel Educacao", "Localizacao"]:
 with open("profissoes.pl", "w") as f:
     for _, row in df.iterrows():
         f.write(
-            f"profissao({row['Profissao']}, {row['Experiencia']}, {row['Habilidades']}, "
+            f"profissao({row['Area']}, {row['Experiencia']}, {row['Habilidades']}, "
             f"{row['Nivel Educacao']}, {row['Localizacao']}, {row['Salario']}).\n"
         )
 ```
@@ -42,13 +40,19 @@ Para rodar a base de conhecimento, utilizamos:
 
 * [https://swish.swi-prolog.org/](https://swish.swi-prolog.org/)
 
+Estrutura do arquivo `.pl`:
+
+```prolog
+profissao(Area, Experiencia, Habilidades, NivelEducacao, Localizacao, Salario).
+```
+
 ---
 
 # Perguntas à Base de Conhecimento
 
 ## 1. Toda pessoa com formação superior tem mais experiência e habilidades do que alguém com ensino médio?
 
-Utilizamos a função:
+Função utilizada:
 
 ```prolog
 pessoa_ensino_medio_mais_experiencia(Educacao2) :-
@@ -69,18 +73,18 @@ pessoa_ensino_medio_mais_experiencia(Educacao).
 
 Resultado:
 
-* `Educacao2 = diploma 
+* `Educacao = diploma`
 
 Conclusão:
 
-* Isso mostra que a afirmacao é falsa por contraposição
-* Se quisermos outros exemplos apertamos Next
+* A afirmação é falsa, porque existe contraexemplo.
+* É possível visualizar outros exemplos apertando em Next.
 
 ---
 
 ## 2. Qual área possui a maior média salarial?
 
-Função para calcular a média salarial por área:
+Função para média salarial:
 
 ```prolog
 media_salarial(Area, Media) :-
@@ -91,7 +95,7 @@ media_salarial(Area, Media) :-
     Media is Soma / N.
 ```
 
-Função para encontrar a maior média:
+Função para maior média:
 
 ```prolog
 maior_media_salarial(Area, Media) :-
@@ -114,7 +118,7 @@ Resultado:
 
 ## 3. Em qual localização há mais profissionais com PhD e Master?
 
-Função que conta profissionais com PhD ou Master:
+Função de contagem(conta 1 a cada caso que possui phd ou master):
 
 ```prolog
 profissional_phd_master(Localizacao, 1) :-
@@ -122,7 +126,7 @@ profissional_phd_master(Localizacao, 1) :-
     (Edu == phd ; Edu == master).
 ```
 
-Função para contagem por localização:
+Contagem por Localização(agrupa por localizacao, somando todos os casos que dao 1):
 
 ```prolog
 contagem_profissionais_phd_master(Localizacao, Total) :-
@@ -132,7 +136,7 @@ contagem_profissionais_phd_master(Localizacao, Total) :-
     sum_list(Lista, Total).
 ```
 
-Função para encontrar a localização com maior quantidade:
+Compara a contagem de todas as localizacoes e escolhe a mais alta:
 
 ```prolog
 localizacao_mais_profissionais_phd_master(Localizacao, Qtd) :-
@@ -155,3 +159,6 @@ Resultado:
 * `Qtd = 54`
 
 ---
+
+```
+```
